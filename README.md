@@ -1,6 +1,6 @@
 # Road Accident Analysis and Insights Dashboard
 
-# Project Objective
+# Objective
 The primary objective of this project is to systematically analyze extensive road accident datasets, cleanse and preprocess the data for accuracy and consistency, and develop a dynamic Excel dashboard that effectively visualizes the core insights. This tool aims to support policymakers, traffic safety authorities, and urban planners in understanding accident patterns and implementing data-driven safety interventions.
 
 # Dashboard 
